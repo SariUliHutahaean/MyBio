@@ -1,3 +1,7 @@
+<?php
+	echo "HALO"
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,6 +9,6 @@
 </head>
 <body>
 	<h1>Biodata</h1>
-	
+
 </body>
 </html>
